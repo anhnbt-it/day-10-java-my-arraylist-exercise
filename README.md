@@ -1,3 +1,3 @@
-# [Bài tập] Triển khai các phương thức của ArrayList
-## Mục tiêu
-Luyện tập cài đặt cấu trúc List hoàn chỉnh theo lớp ArrayList trong thư viện java.util.ArrayList.
+![AnhNBT Logo](https://anhnbt.com/images/logo-anhnbt.png)
+# Bài tập Java ArrayList
+Triển khai phương thức thêm và xóa theo index ArrayList :simple_smile:
